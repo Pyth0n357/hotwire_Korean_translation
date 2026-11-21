@@ -42,7 +42,7 @@
   "hotwire.cache.manage_title": "이 컴퓨터에 있는 hotwire 캐시",
   "hotwire.cache.clear_one": "캐시 지우기",
   "hotwire.cache.clear_all": "모든 캐시 지우기",
-  "hotwire.cache.version_current": "%s (this game)",
+  "hotwire.cache.version_current": "%s (이 게임)",
   "hotwire.cache.version_in_use": "다른 게임에서 해당 버전 사용중",
   "hotwire.cache.total": "총합 %s",
   "hotwire.cache.none": "아무것도 저장되지 않음.",
