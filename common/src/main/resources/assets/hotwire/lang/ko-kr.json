@@ -80,7 +80,7 @@
   "hotwire.first_open.report": "Hotwire가 추가/수정한 모드가 이상하게 작동하면 그 모드 개발자가 아닌 Hotwire 개발자에게 알려주세요!",
   "hotwire.first_open.crash": "모든 크래시 리포트에는 만약 Hotwire가 사고 원인이었는지 아닌지가 명확하게 나와 있습니다!",
   "hotwire.client_warning.dawn_why": "Dawn 클라이언트 (이전의 페더 클라이언트) 의 제작자가 친구를 통해 제 모드에 대해 알게 되고, 저희가 이 모드를 출시하기 전에 아이디어를 훔치려고 시도한다니 정말 황당한 일이죠.",
-  "hotwire.client_warning.dawn_unsupported": "Dawn Client에서의 "Hotwire" 모드 사용은 전혀 지원되지 않고, 지원되지 않을것입니다.",
+  "hotwire.client_warning.dawn_unsupported": "Dawn Client에서의 Hotwire 모드 사용은 전혀 지원되지 않고, 지원되지 않을것입니다.",
   "hotwire.client_warning.dawn_announcement": "Dawn Client에는 이와 관련된 공지 사항이 전혀 없죠. ❤",
   "hotwire.client_warning.title": "%s를 사용하고 있습니다.",
   "hotwire.client_warning.not_made": "Hotwire는 어떠한 마인크래프트 클라이언트에서라도 사용되도록 제작되지 않았슺니다.",
