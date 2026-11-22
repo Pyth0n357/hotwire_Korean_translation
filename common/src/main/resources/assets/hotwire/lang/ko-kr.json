@@ -32,7 +32,7 @@
   "hotwire.cache.fill_size_pending": "예상 압축 파일 크기: 모드 크기 측정 중...",
   "hotwire.cache.fill_progress": "%s%% done%s. 저장됨: %s",
   "hotwire.cache.fill_left": ", 약 %s 남음",
-  "hotwire.cache.fill_full": "다 채워쟜습니다! ❤ %s 저장됨.",
+  "hotwire.cache.fill_full": "다 찼습니다! ❤ %s 저장됨.",
   "hotwire.cache.fill_button": "채우기",
   "hotwire.cache.pause_button": "정지",
   "hotwire.cache.resume_button": "계속하기",
